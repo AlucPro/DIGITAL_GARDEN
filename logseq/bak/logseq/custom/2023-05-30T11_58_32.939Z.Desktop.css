@@ -1,0 +1,23 @@
+@import url('https://rcvd.github.io/logseq-css-system/output/bear.css');
+:root {
+  --ls-font-family: apple-font, common-font, code-font, ui-font, system-ui;
+  --ct-code-font-family: code-font, common-font, ui-font, system-ui !important;
+}
+@font-face {
+  font-family: apple-font;
+  font-style: normal;
+  font-weight: normal;
+  src: local("-apple-system"), local("BlinkMacSystemFont"),
+    url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff")
+      format("woff");
+}
+@font-face {
+  font-family: common-font;
+  src: url("./font/LXGWWenKaiMonoLite-Regular.ttf") format("TrueType");
+}
+@font-face {
+  font-family: code-font;
+  src: local("DejaVuSansMono Nerd Font Mono"),
+    url("./font/Fonts_DejaVu_Sans_Mono_Nerd_Font_Complete_Mono.ttf")
+      format("TrueType");
+}

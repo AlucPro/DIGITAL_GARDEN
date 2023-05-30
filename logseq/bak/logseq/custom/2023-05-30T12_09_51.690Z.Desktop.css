@@ -1,5 +1,8 @@
-@import url("https://cdn.jsdelivr.net/gh/unickcheng/logseq-developer-theme@release/custom.css");
-
+@import url('https://rcvd.github.io/logseq-css-system/output/bear.css');
+:root {
+  --ls-font-family: apple-font, common-font, code-font, ui-font, system-ui;
+  --ct-code-font-family: code-font, common-font, ui-font, system-ui !important;
+}
 @font-face {
   font-family: apple-font;
   font-style: normal;
@@ -17,10 +20,4 @@
   src: local("DejaVuSansMono Nerd Font Mono"),
     url("./font/Fonts_DejaVu_Sans_Mono_Nerd_Font_Complete_Mono.ttf")
       format("TrueType");
-}
-
-@font-face {
-  font-family: ui-font;
-  src: local("Apple Color Emoji"), local("Segoe UI Emoji"),
-    local("Segoe UI Symbol");
 }

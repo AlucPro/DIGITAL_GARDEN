@@ -1,0 +1,26 @@
+@import url("https://cdn.jsdelivr.net/gh/unickcheng/logseq-developer-theme@release/custom.css");
+
+@font-face {
+  font-family: apple-font;
+  font-style: normal;
+  font-weight: normal;
+  src: local("-apple-system"), local("BlinkMacSystemFont"),
+    url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff")
+      format("woff");
+}
+@font-face {
+  font-family: common-font;
+  src: url("./font/LXGWWenKaiMonoLite-Regular.ttf") format("TrueType");
+}
+@font-face {
+  font-family: code-font;
+  src: local("DejaVuSansMono Nerd Font Mono"),
+    url("./font/Fonts_DejaVu_Sans_Mono_Nerd_Font_Complete_Mono.ttf")
+      format("TrueType");
+}
+
+@font-face {
+  font-family: ui-font;
+  src: local("Apple Color Emoji"), local("Segoe UI Emoji"),
+    local("Segoe UI Symbol");
+}

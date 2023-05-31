@@ -3,5 +3,3 @@
 	- ![DIGITAL_GARDEN_1655220149057_0.png](../assets/DIGITAL_GARDEN_1655220149057_0_1685443656257_0.png)
 	- [Digital gardens let you cultivate your own little bit of the internet](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
 - My Garden Wiki → [[Contents]]
-- TODO ddd
-- [[DOING]]

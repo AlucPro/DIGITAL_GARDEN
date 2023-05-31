@@ -1,0 +1,11 @@
+- ![image.png](../assets/image_1654131592480_0.png)
+- LAN(Local Area NetWorks) 局域网
+	- ![image.png](../assets/image_1654132129817_0.png)
+- MAC(Media Acess Control address) 地址
+	- 每台计算机都有自己的地址。数据传输时，在数据头加上target的 mac 地址
+- 交换机
+	- 将网络拆分成多个更小的网络
+	  ![image.png](../assets/image_1654132154216_0.png)
+- 路由
+	- ![image.png](../assets/image_1654132215665_0.png)
+-

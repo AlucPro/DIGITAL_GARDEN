@@ -1,0 +1,5 @@
+- https://www.cnblogs.com/onepixel/articles/7674659.html
+- 两两交换，把最大的排到最后
+- 时间是n^2, 空间是 1
+- leetCode 题目
+	- [912](https://ssg.leetcode.cn/problems/sort-an-array/)

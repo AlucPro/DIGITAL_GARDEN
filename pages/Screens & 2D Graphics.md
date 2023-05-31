@@ -1,0 +1,11 @@
+- 示波器扫描出来的显示器
+- 液晶显示器 Liquid Crystal Displays (LCD)，像素 (Pixel)
+- 字符生成器 Character generator
+	- 最早期的显卡
+	- 比如看到01011011,转换成相应的字符，比如K
+- 屏幕缓冲区 Screen buffer
+- 矢量命令画图
+	- 产生动机：绘制更多更复杂的图形，但是又不吃掉内存
+- Sketchpad, 光笔 (Light pen)
+- 函数画线，矩形
+-

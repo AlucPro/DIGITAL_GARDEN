@@ -1,0 +1,12 @@
+- MERN software stack
+	- ● React.js
+		- ○ Browser-side JavaScript framework - Only View/controller parts
+		- ○ Javascript/CSS with HTML templates embedded (JSX)
+		- ○ Unopinionated: leaves much SPA support to 3rd parties - **routing, model fetchin**g, etc.
+	- ● Node.js / Express.js web server code
+		- ○ Server side JavaScript
+		- ○ High "concurrency" with single-thread event-based programming
+	- ● MongoDB "document" storage
+		- ○ Store frontend model data
+		- ○ Storage system support scale out (sharing and replication), queries, indexes
+	- ● Commonly listed alternatives: Angular(2) and Vue.js

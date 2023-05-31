@@ -1,0 +1,12 @@
+- Secrecy, Integrity, Availability
+	- 保密性
+	- 完整性
+	- 可用性
+- Threat Model 威胁模型
+- 身份验证 (Authentication) 的三种方式：
+	- What you know, 你知道什么
+	- What you have, 你有什么
+	- What you are, 你是什么
+- 访问控制 Access Control
+- Bell LaPadula model 不能向上读取，不能向下写入
+- 隔离 Isolation, 沙盒 Sandbox

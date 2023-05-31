@@ -1,0 +1,11 @@
+- 通过调速，暂停等技巧，加强学习效率
+- 大型开放式在线课程 - Massive Open Online Courses (MOOC)
+- 智能辅导系统 - Intelligent Tutoring Systems
+- 判断规则 - Production rule
+- 域模型 - Domain Model
+- 贝叶斯知识追踪 Bayesian knowledge tracing
+  - 学生已经学会的概率
+  - 瞎猜的概率
+  - 失误的概率
+  - 做题过程中学会的概率
+- 教育数据挖掘 Educational Data Mining

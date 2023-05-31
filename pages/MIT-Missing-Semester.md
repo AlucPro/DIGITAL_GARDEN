@@ -1,0 +1,10 @@
+- Topic 1 [[Shell]] [[Golang As Script]]
+- Topic 2 [[VIM]]
+- Topic 3 [[Data Wrangling]]
+- Topic 4 [[CMD-line Environment]]
+- Topic 5 [[Git]]
+- Topic 6 [[Debugging and Profiling]]
+- Topic 7 [[Metaprogramming]]
+	- (build systems, dependency management, testing, CI)
+- Topic 8 Security and Cryptography
+- Topic 9 Potpourri

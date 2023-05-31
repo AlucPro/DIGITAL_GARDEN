@@ -1,0 +1,18 @@
+- [[LeetCode Hot 100]]
+	- 排序：快排
+- CSS
+- [JS 32个手写题](https://www.readfog.com/a/1643702077347696640)
+- JS Concept
+	- Execution  Context 与 this、作用域链、闭包、变量提升
+	- Event loop
+	- 原型链和继承
+- 后端
+	- MySQL
+		- 基本概念
+		- 索引建立
+		- SQL
+	- Glang
+- 系统设计
+- 软实力
+	- 自我介绍
+	- 英文语言

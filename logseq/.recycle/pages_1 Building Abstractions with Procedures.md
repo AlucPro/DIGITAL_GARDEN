@@ -1,0 +1,40 @@
+- 1.1 The Elements of Programming
+  ((62f2026a-0935-4bbd-bc02-c27e1c4386b2))
+	- 1.1.1 Expressions
+		- ((62f204a7-47f9-4827-81cc-9004a4b16e0a))
+	- 1.1.2 Naming and the Environment
+		- Name record computing result, or a calculation precossor.
+		- ((62f20899-2dd9-4881-94ff-3153fbc78320))
+	- 1.1.3 Evaluating Combinations
+		- ((62f20ab1-502d-4a3e-8e7b-759adc6f707c))
+	- 1.1.4 Compound Procedures
+		- define procedure → function
+	- 1.1.5 The Substitution Model for Procedure Application
+		- Case: `function(p1, p2) { doSomthing...}`
+		- it descripte how it happen and execute.
+		- Two evaluation model
+		  ((62f3a7b3-ac37-4972-adce-097fdf3f3100))
+	- 1.1.6 Conditional Expressions and Predicates
+		- if...if...
+		- if...else...
+		- judge ? a : b
+		- ((62f3ae41-fbe6-4656-a6ad-0a380895eaa6))
+		- A interesting exercise
+		  ((62f3b60f-746f-4035-8406-f8c276ce426a))
+	- 1.1.7 Example: Square Roots by Newton’s Method
+		- A instresting concept: declarative knowledge and imperative knowledge.
+			- ((62fc4f6f-06dc-470e-bab7-6d9b40c8514b))
+	- 1.1.8 Procedures as Black-Box Abstractions
+		- recursive
+		- local name
+		- Internal definitions and block structure
+- 1.2 Procedures and the Processes They Generate
+	- 1.2.0 ((6306c3cd-a2b1-4e88-9d46-4c3d62234274))
+		- Distinguish between ==recursion and iteration==
+	- 1.2.1 Linear Recursion and Iteration
+	- 1.2.2 Tree Recursion
+	- 1.2.3 Orders of Growth
+	- 1.2.4 Exponentiation
+	- 1.2.5 Greatest Common Divisors
+	- 1.2.6 Example: Testing for Primality
+	-

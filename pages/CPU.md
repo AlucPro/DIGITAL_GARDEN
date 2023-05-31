@@ -1,0 +1,11 @@
+- {{renderer :toc_uwphgfchle}}
+	- ### 0 概要
+		- ![image.png](../assets/image_1653635047793_0.png)
+	-
+	- ### 1CPU的指令过程
+		- ![image.png](../assets/image_1653636037614_0.png)
+	- ![image.png](../assets/image_1653636527573_0.png)
+	- ### 2 时钟
+		- 以精确的间隔，触发电信号
+		- ![image.png](../assets/image_1653636628636_0.png)
+	- ![image.png](../assets/image_1653636780029_0.png)

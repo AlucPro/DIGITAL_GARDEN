@@ -1,0 +1,32 @@
+- {{renderer :toc_qpfpwqj}}
+	- ## 1 基础逻辑运算符的实现
+		- #### 1.1 逻辑并 AND
+			- ![IMG_D1F506C2B497-1.jpeg](../assets/IMG_D1F506C2B497-1_1653190621896_0.jpeg)
+		- #### 1.2 逻辑非 NOT
+			- ![IMG_B5EEA96743D7-1.jpeg](../assets/IMG_B5EEA96743D7-1_1653190747209_0.jpeg)
+		- #### 1.3 逻辑或 OR
+			- ![IMG_AB9602A287AF-1.jpeg](../assets/IMG_AB9602A287AF-1_1653191148094_0.jpeg)
+		- #### 1.4 逻辑异或 XOR
+			- ![IMG_7FA334910AF0-1.jpeg](../assets/IMG_7FA334910AF0-1_1653191744406_0.jpeg)
+			- ![image.png](../assets/image_1653191773479_0.png)
+	- ## 2 加减法法的实现
+		- #### 2.1 加法
+			- 一个位加的实现
+				- ![IMG_3CD26857E585-1.jpeg](../assets/IMG_3CD26857E585-1_1653192256320_0.jpeg)
+				- ![image.png](../assets/image_1653192723914_0.png)
+				- 3个输入(A, B, PrevCarry)， 2 个输出(SUM, NextCarry), 标记为单元 `Adder`
+			- 4-bits add
+				- ![image.png](../assets/image_1653192973747_0.png)
+		- #### 2.2 减法
+			- ![Image 2022-5-22 at 12.36.jpg](../assets/Image_2022-5-22_at_12.36_1653194593973_0.jpg)
+	- ## 3 逻辑门的符号表示
+		- 作用：将逻辑门简化，将逻辑门用于构建更大的组件，而不至于太复杂。
+		- 图例
+			- 非门：用三角形+圆圈表示
+			- 与门：用D型图案表示
+			- 或门：用类似D向右弯曲的图案表示
+			- 异或门：用或门+一个圆弧表示
+			- ![image.png](../assets/image_1653612905625_0.png)
+	- ## Reference
+		- [Exploring How Computers Work](youtube.com/watch?v=QZwneRb-zqA)
+-

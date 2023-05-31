@@ -1,13 +1,9 @@
-# DIGITAL_GARDEN
+# DIGITAL GARDEN
 
-Alucard's small DIGITAL GARDEN.
+It's my logseq digital garden.
 
-- → [site](https://alucpro.github.io/DIGITAL_GARDEN/#/)
+## check asset reference
 
-## Development
-
-1.在 logseq DIGITAL_GARDEN 里编辑；
-2.push 和并到main, 触发 ci/cd，将编译结果存放到 gh-pages分支；
-3.[First config] DIGITAL_GARDEN 分支配置pages和 workflow permissions.
-
-- [DIGITAL_GARDEN](https://github.com/AlucPro/DIGITAL_GARDEN)
+```bash
+python check_asset_reference.py
+```

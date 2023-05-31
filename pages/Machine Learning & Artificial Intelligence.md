@@ -1,0 +1,14 @@
+- 分类 Classification
+	- 分类器 Classifier
+	- 特征 Feature
+	- 标记数据 Labeled data
+	- 决策边界 Decision boundaries
+- 混淆矩阵 Confusion matrix
+- 未标签数据 Unlabeled data
+- 决策树 Decision tree
+- 支持向量机 Support Vector Machines
+- 人工神经网络 Artificial Neural Network
+- 深度学习 Deep learning
+	- 弱 AI, 窄 AI Weak AI, Narrow AI
+	- 强 AI Strong AI
+	- 强化学习 Reinforcement Learning

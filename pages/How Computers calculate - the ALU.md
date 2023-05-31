@@ -1,0 +1,12 @@
+- ALU: Arithmetic And Logic Unit
+- ![image.png](../assets/image_1653616432832_0.png)
+- ALU has two unit = 1 Arithmetic Unit + 1 Logic Unit
+	- Arithmetic Unit
+	- Logic Unit
+- ALU support
+	- ![image.png](../assets/image_1653619900818_0.png)
+- ALU level abstract
+	- input: a and b and operation code
+	- output: flags and output value
+	- ![image.png](../assets/image_1653620047746_0.png)
+- ^^many ALU can compose CPU^^

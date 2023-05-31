@@ -1,0 +1,4 @@
+- ![image.png](../assets/image_1653796930766_0.png)
+- ![image.png](../assets/image_1653797926729_0.png)
+- Moore’s Law
+	- 硬件定律

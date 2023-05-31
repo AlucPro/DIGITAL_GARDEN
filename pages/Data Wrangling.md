@@ -1,0 +1,14 @@
+- What it slove (数据处理的本质)
+	- trans from a format to another format
+	- 遐想：互联网，不就是==数据(存储+内容) + 传输 + 数据转换 + 计算交互==组成的吗？
+- Learn Case: log data
+	- #linuxCMD sed 命令：流媒体编辑器，比如 `$ cat ssh.log | sed 's/.findcontent //' | less`.将 find_conent替换成空白
+	- #正则 case `/.*Disconnected from /`
+		- `.` means “any single character” except newline
+		- `*` zero or more of the preceding match
+		- `+` one or more of the preceding match
+		- `[abc]` any one character of `a`, `b`, and `c`
+		- `(RX1|RX2)` either something that matches `RX1` or `RX2`
+		- `^` the start of the line
+		- `$` the end of the line
+- [[正则表达式]]

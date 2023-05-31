@@ -1,0 +1,10 @@
+- 语言 Feature
+	- go 指针 [[go 指针]]
+	- [Go 泛型](https://segmentfault.com/a/1190000041634906)
+- 应用场景
+	- [[Golang As Script]]
+- 模块
+	- [GORM](https://gorm.io/zh_CN/docs/index.html)
+	- [命令行参数（os.Args, flag包）](https://blog.csdn.net/guanchunsheng/article/details/79612153)
+- 框架、工具
+	- [[go-zero]]

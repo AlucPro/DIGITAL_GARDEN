@@ -1,0 +1,2 @@
+- PDF: ![Cracking the Tech Career Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company (Gayle Laakmann McDowell).pdf](../assets/Cracking_the_Tech_Career_Insider_Advice_on_Landing_a_Job_at_Google,_Microsoft,_Apple,_or_any_Top_Tech_Company_(Gayle_Laakmann_McDowell)_1665198327455_0.pdf)
+- [[Cracking the Tech Career Reading Notes]]

@@ -1,0 +1,88 @@
+- Notes
+	- Modal editing
+		- **Normal**: for moving around a file and making edits `<esc>`
+		- **Insert**: for inserting text `i`
+		- **Replace**: for replacing text `r`
+		- **Visual** (plain, line, or block): for selecting blocks of text `v` `shift+v` `cmd+v`
+		- **Command-line**: for running a command `:`
+	- New bind for esc
+		- **MAC**: [bind cap to esc](https://blog.csdn.net/weixin_42426841/article/details/114002795) ==@action==
+- 使用VIM 20 小时，就能回到旧编辑器的速度。
+- 配置 VIM 环境
+  id:: 62a2b2f3-32f2-4715-ac38-66b7793ace0a
+	- HW1: 本地配置 VIM 前端开发环境
+		- features
+			- 1、配置管理在 xlog 中，且可快速迁移；
+			- 2、支持导航能力：
+				- 2.1、左侧 sidebar
+				- 2.2、文件名模糊匹配搜索+内容全局搜索
+			- 3、编辑操作
+				- 3.1、支持批量操作
+				- 3.2、自定义管理snippets
+			- 4、自动化
+				- 4.1、高亮、lint 检查、format；
+				- 4.2、自动引入、提醒、补全；
+				- 4.3、人工智能；
+		- action
+			- 1、安装 `brew install neovim`
+			- 2、nvim 的配置文件在 `~/.config/nvim/init.vim` ==xlog同步==
+			- 3、启动命令 `nvim xxx`
+			- 4、[配置教程](https://zhuanlan.zhihu.com/p/469355805) → 添加了settings.lua配置
+			- 5、安装SpaceVim
+			-
+	- HW2: CVM 配置 go 开发环境；
+	- https://www.xwxwgo.com/post/2022/01/20/neovim%E9%85%8D%E7%BD%AEgo%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83-%E8%BF%9B%E9%98%B6/
+	-
+	- VIM USE BOOK [DOC](https://coolshell.cn/articles/5426.html)
+		- LV1
+			- 上下左右
+			- 插入模式
+				- i、I: 字符前、句首插入。 insert before
+				- a、A: 字符后、句尾插入。after
+		- LV2
+			- dw: 删除到词尾的内容,不含选中的单词
+			- de: delete from cursor to end of word, include curlsor char
+			- d$: delete from cursor to end of line
+			- diw: 删除整个单词
+			- daw: 删除整个单词和后边的空讴歌
+			- dd: 删除整句, 2dd删除 2 句
+			- d motion
+				- w
+				- e
+				- $
+			- count motion
+				- 2w: 2 word forward
+				- 2e: 2 word forward
+				- 0: start of line
+			- d count motion
+			- 撤销和重做
+				- u 撤销上一个 action
+				- U 撤销一个 Line到上一个保存点的所有 action
+				- ctrl+r: redo it
+		- LV3
+			- p: when dd or yy, copy line data to vim register, `p` is copy register data below the cursor line.
+			- r\R: r enter replace mode, replace word, only a char.But R is always work until enter esc.
+			- ce\cc:  c 是 change的意思，motion e 是 end  of word。 ce是删除光标到 Word 尾部，并进入 insertmode. cc 则是对整行操作，快捷键选择理念和 yy dd 一致。
+			- c：和 d 一样，有 c motion， c count motion 的逻辑。
+		- LV4
+			- file status: ctrl+g, 会在底部显示文件名，位置等状态
+			- 光标位置跳转：gg 和 G
+			- 查找：/然后正则，enter.  n 下一个，N 上一个。
+			- ctrl+o,跳转到上一个位置，ctrl+i，跳转到下一个位置。
+			- 替换 substitute:
+			  ```
+			  :{作用范围}s/{目标}/{替换}/{替换标志}
+			  ```
+			- https://harttle.land/2016/08/08/vim-search-in-file.html
+			- `%s/old/new/gc`, c表示需要确认，y 替换，n 不替换，a 替换所有，q 退出
+		- LV5
+			- 在编辑器内执行外部 shell cmd
+			- `:!` 进入执行模式，比如`:!ls` 就是执行 ls
+			- 选择模式，v 进入选择模式，选中然后`:`进入命令行模式。则命令行的文本操作范围是选中内容。
+		- LV6
+			- :set xxx 设置参数
+			- :set noxxx
+		- LV7
+- HW
+	- TODO 3 安装插件
+	- TODO 8 使用宏

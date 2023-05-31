@@ -1,0 +1,31 @@
+- ## 0、Overview
+	- https://kodekloud.com/courses/docker-for-the-absolute-beginner/
+	- 账号，谷歌登录
+- ## 1、Docker Starter
+  collapsed:: true
+	- 一个服务的依赖有：硬件+操作系统接口，系统上的语言支持库，服务本身的依赖管理。
+	- Diff between VM and Docker
+	  ![image.png](../assets/image_1665992993892_0.png)
+	-
+- ## 2、Docker Commands
+	- Basic Docker Commands
+		- Run commands: `docker run nginx`
+		- ps- list containers: `docker ps -a`
+		- images - list images: `docker images`
+		- rmi- remove images: `docker rmi nginx`
+		- docker pull nginx
+		- docker stop nginx
+		- exec - execute a command: `docker exec container_name cmd_here`
+- ## 3、Docker Run
+- ## 4、Docker Images
+- ## 5、Docker Compose
+- ## 6、Docker Engine, Storage
+- ## 7、Docker Networking
+- ## 8、Docker on Mac & Windows
+- ## 9、Container Orchestration
+- ## 10、Conclusion
+- ## 11、More
+	- Docker hub https://hub.docker.com/
+		- uer: jinxm.alucard@gmail.com
+		- username:alucardj
+		- pwd:13271327docker

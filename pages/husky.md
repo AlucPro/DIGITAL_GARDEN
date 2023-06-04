@@ -3,7 +3,7 @@
 		- 基于 NodeJS 的第三方 Git Hooks 能力补充库。
 	- 2、学习一种语言，或者技术框架、系统 等等..要知道它`为什么`存在,以及它的作用和应用场景？
 		- 1、弥补 git hook 缺陷
-			- [[GIT-Hooks]] 存在一些缺陷，主要是.git/hooks 目录下hook 的修改，不能被 git 同步。
+			- GIT-Hooks 存在一些缺陷，主要是.git/hooks 目录下hook 的修改，不能被 git 同步。
 			- husky 找了一个新目录自定义 写 hook。
 		- 2、有一个 client，并集成了一些常见 hooks 工具库。
 	- 3、最后才是想办法如何去掌握其中重要的技术以及知识点？

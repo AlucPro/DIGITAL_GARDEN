@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 1825. Find Minimum Time to Finish All Jobs #ltc_hard
+	- 1826. Maximum XOR With an Element From Array #ltc_hard
+	- 1827. Invalid Tweets #ltc_easy
+	- 1828. Count Ways to Distribute Candies #ltc_hard
+	- 1829. Maximum Units on a Truck #ltc_easy
+	- 1830. Count Good Meals #ltc_mid
+	- 1831. Ways to Split Array Into Three Subarrays #ltc_mid
+	- 1832. Minimum Operations to Make a Subsequence #ltc_hard
+	- 1833. Find the Highest Altitude #ltc_easy
+	- 1834. Minimum Number of People to Teach #ltc_mid
+	- 1835. Decode XORed Permutation #ltc_mid
+	- 1836. Count Ways to Make Array With Product #ltc_hard
+	- 1837. Daily Leads and Partners #ltc_easy
+	- 1838. Number of Distinct Substrings in a String #ltc_mid
+	- 1839. Decode XORed Array #ltc_easy
+	- 1840. Minimize Hamming Distance After Swap Operations #ltc_mid
+	- 1842. Number of Calls Between Two Persons #ltc_mid
+	- 1843. Number Of Rectangles That Can Form The Largest Square #ltc_easy
+	- 1844. Maximum Number of Balls in a Box #ltc_easy
+	- 1845. Largest Submatrix With Rearrangements #ltc_mid
+	- 1847. Largest Subarray Length K #ltc_easy
+	- 1848. Sum of Unique Elements #ltc_easy
+	- 1849. Maximum Absolute Sum of Any Subarray #ltc_mid
+	- 1850. Minimum Length of String After Deleting Similar Ends #ltc_mid
+	- 1851. Maximum Number of Events That Can Be Attended II #ltc_hard
+	- 1852. Biggest Window Between Visits #ltc_mid
+	- 1858. Latest Time by Replacing Hidden Digits #ltc_easy
+	- 1859. Change Minimum Characters to Satisfy One of Three Conditions #ltc_mid
+	- 1860. Find Kth Largest XOR Coordinate Value #ltc_mid
+	- 1861. Building Boxes #ltc_hard
+	- 1862. Count Apples and Oranges #ltc_mid
+	- 1865. Checking Existence of Edge Length Limited Paths II #ltc_hard
+	- 1866. Restore the Array From Adjacent Pairs #ltc_mid
+	- 1871. Palindrome Partitioning IV #ltc_hard
+	- 1872. Can You Eat Your Favorite Candy on Your Favorite Day? #ltc_mid
+	- 1873. Longest Nice Substring #ltc_easy
+	- 1874. Form Array by Concatenating Subarrays of Another Array #ltc_mid
+	- 1875. Tree of Coprimes #ltc_hard
+	- 1876. Map of Highest Peak #ltc_mid
+	- 1877. Find Followers Count #ltc_easy
+	- 1878. Check if Array Is Sorted and Rotated #ltc_easy
+	- 1879. Maximum Score From Removing Stones #ltc_mid
+	- 1880. Largest Merge Of Two Strings #ltc_mid
+	- 1881. Closest Subsequence Sum #ltc_hard
+	- 1882. The Number of Employees Which Report to Each Employee #ltc_easy
+	- 1883. Find Distance in a Binary Tree #ltc_mid
+	- 1884. Minimum Changes To Make Alternating Binary String #ltc_easy
+	- 1885. Count Number of Homogenous Substrings #ltc_mid
+	- 1886. Minimum Limit of Balls in a Bag #ltc_mid
+	- 1887. Minimum Degree of a Connected Trio in a Graph #ltc_hard

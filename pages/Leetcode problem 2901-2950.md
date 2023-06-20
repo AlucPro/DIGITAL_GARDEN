@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 1000021. Smallest K LCCI #ltc_mid
+	- 1000022. Longest Word LCCI #ltc_mid
+	- 1000023. The Masseuse LCCI #ltc_easy
+	- 1000024. Multi Search LCCI #ltc_mid
+	- 1000025. Add Without Plus LCCI #ltc_easy
+	- 1000026. LRU Cache LCCI #ltc_mid
+	- 1000027. Calculator LCCI #ltc_mid
+	- 1000028. Continuous Median LCCI #ltc_hard
+	- 1000029. Volume of Histogram LCCI #ltc_hard
+	- 1000030. Word Transformer LCCI #ltc_mid
+	- 1000031. Boolean Evaluation LCCI #ltc_mid
+	- 1000032. Missing Number LCCI #ltc_easy
+	- 1000033. Find Longest Subarray LCCI #ltc_mid
+	- 1000034. Number Of 2s In Range LCCI #ltc_hard
+	- 1000035. Baby Names LCCI #ltc_mid
+	- 1000036. Circus Tower LCCI #ltc_mid
+	- 1000037. Get Kth Magic Number LCCI #ltc_mid
+	- 1000038. Find Majority Element LCCI #ltc_easy
+	- 1000039. Find Closest LCCI #ltc_mid
+	- 1000040. Group Anagrams LCCI #ltc_mid
+	- 1000041. Rank from Stream LCCI #ltc_mid
+	- 1000042. Pairs With Sum LCCI #ltc_mid
+	- 1000043. Shortest Supersequence LCCI #ltc_mid
+	- 1000044. Missing Two LCCI #ltc_hard
+	- 1000045. Max Black Square LCCI #ltc_mid
+	- 1000046. Max Submatrix LCCI #ltc_hard
+	- 1000047. T9 LCCI #ltc_mid
+	- 1000048. Sum Swap LCCI #ltc_mid
+	- 1000049. Word Rectangle LCCI #ltc_hard
+	- 1000050. Langtons Ant LCCI #ltc_mid
+	- 1000051. Sparse Similarity LCCI #ltc_hard
+	- 1000056. 拿硬币 #ltc_easy
+	- 1000057. 剧情触发时间 #ltc_mid
+	- 1000058. 魔术排列 #ltc_mid
+	- 1000059. 切分数组 #ltc_hard
+	- 1000062. 二叉树任务调度 #ltc_hard
+	- 1000063. 传递信息 #ltc_easy
+	- 1000085. 游乐园的游览计划 #ltc_hard
+	- 1000086. 期望个数统计 #ltc_easy
+	- 1000087. 小张刷题计划 #ltc_mid
+	- 1000088. 游乐园的迷宫 #ltc_hard
+	- 1000089. 二叉树染色 #ltc_mid
+	- 1000090. 最小跳跃次数 #ltc_hard
+	- 1000091. 最小矩形面积 #ltc_hard
+	- 1000093. 寻宝 #ltc_hard
+	- 1000130. 秋叶收藏集 #ltc_mid
+	- 1000131. 数字游戏 #ltc_hard
+	- 1000132. 导航装置 #ltc_hard
+	- 1000133. 快速公交 #ltc_hard
+	- 1000134. 追逐游戏 #ltc_hard

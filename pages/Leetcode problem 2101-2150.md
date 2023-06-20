@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 2191. Minimum Number of Food Buckets to Feed the Hamsters #ltc_mid
+	- 2192. Minimum Cost Homecoming of a Robot in a Grid #ltc_mid
+	- 2193. Count Fertile Pyramids in a Land #ltc_hard
+	- 2194. The Category of Each Member in the Store #ltc_mid
+	- 2195. Time Needed to Buy Tickets #ltc_easy
+	- 2196. Reverse Nodes in Even Length Groups #ltc_mid
+	- 2197. Decode the Slanted Ciphertext #ltc_mid
+	- 2198. Process Restricted Friend Requests #ltc_hard
+	- 2199. Two Furthest Houses With Different Colors #ltc_easy
+	- 2200. Stamping the Grid #ltc_hard
+	- 2201. Valid Arrangement of Pairs #ltc_hard
+	- 2202. Sum of k-Mirror Numbers #ltc_hard
+	- 2203. Number of Spaces Cleaning Robot Cleaned #ltc_mid
+	- 2204. Find Subsequence of Length K With the Largest Sum #ltc_easy
+	- 2205. Find Good Days to Rob the Bank #ltc_mid
+	- 2206. Detonate the Maximum Bombs #ltc_mid
+	- 2207. Sequentially Ordinal Rank Tracker #ltc_hard
+	- 2208. Account Balance #ltc_mid
+	- 2209. Number of Equal Count Substrings #ltc_mid
+	- 2210. Find Target Indices After Sorting Array #ltc_easy
+	- 2211. K Radius Subarray Averages #ltc_mid
+	- 2212. Removing Minimum and Maximum From Array #ltc_mid
+	- 2213. Find All People With Secret #ltc_hard
+	- 2214. The Winner University #ltc_easy
+	- 2215. Finding 3-Digit Even Numbers #ltc_easy
+	- 2216. Delete the Middle Node of a Linked List #ltc_mid
+	- 2217. Step-By-Step Directions From a Binary Tree Node to Another #ltc_mid
+	- 2218. Paths in Maze That Lead to Same Room #ltc_mid
+	- 2219. Maximum Number of Words Found in Sentences #ltc_easy
+	- 2220. Find All Possible Recipes from Given Supplies #ltc_mid
+	- 2221. Check if a Parentheses String Can Be Valid #ltc_mid
+	- 2222. Abbreviating the Product of a Range #ltc_hard
+	- 2223. The Number of Rich Customers #ltc_easy
+	- 2224. Drop Type 1 Orders for Customers With Type 0 Orders #ltc_mid
+	- 2225. Substrings That Begin and End With the Same Letter #ltc_mid
+	- 2226. Rings and Rods #ltc_easy
+	- 2227. Sum of Subarray Ranges #ltc_mid
+	- 2228. Watering Plants II #ltc_mid
+	- 2229. Maximum Fruits Harvested After at Most K Steps #ltc_hard
+	- 2230. Minimum Cost to Reach City With Discounts #ltc_mid
+	- 2231. Find First Palindromic String in the Array #ltc_easy
+	- 2232. Adding Spaces to a String #ltc_mid
+	- 2233. Number of Smooth Descent Periods of a Stock #ltc_mid
+	- 2234. Minimum Operations to Make the Array K-Increasing #ltc_hard
+	- 2235. Capitalize the Title #ltc_easy
+	- 2236. Maximum Twin Sum of a Linked List #ltc_mid
+	- 2237. Longest Palindrome by Concatenating Two Letter Words #ltc_mid
+	- 2238. A Number After a Double Reversal #ltc_easy
+	- 2239. Execution of All Suffix Instructions Staying in a Grid #ltc_mid
+	- 2240. Intervals Between Identical Elements #ltc_mid

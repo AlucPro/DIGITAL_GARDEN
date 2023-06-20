@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 2041. The Latest Login in 2020 #ltc_easy
+	- 2042. Maximum Product Difference Between Two Pairs #ltc_easy
+	- 2043. Cyclically Rotating a Grid #ltc_mid
+	- 2044. Number of Wonderful Substrings #ltc_mid
+	- 2045. Cutting Ribbons #ltc_mid
+	- 2046. Page Recommendations II #ltc_hard
+	- 2047. Find a Peak Element II #ltc_mid
+	- 2048. Build Array from Permutation #ltc_easy
+	- 2049. Eliminate Maximum Number of Monsters #ltc_mid
+	- 2050. Count Good Numbers #ltc_mid
+	- 2051. Longest Common Subpath #ltc_hard
+	- 2052. Depth of BST Given Insertion Order #ltc_mid
+	- 2053. Check if All Characters Have Equal Number of Occurrences #ltc_easy
+	- 2054. The Number of the Smallest Unoccupied Chair #ltc_mid
+	- 2055. Describe the Painting #ltc_mid
+	- 2056. Jump Game VIII #ltc_mid
+	- 2057. Count Salary Categories #ltc_mid
+	- 2058. Concatenation of Array #ltc_easy
+	- 2059. Unique Length-3 Palindromic Subsequences #ltc_mid
+	- 2060. Merge BSTs to Create Single BST #ltc_hard
+	- 2061. Painting a Grid With Three Different Colors #ltc_hard
+	- 2062. Game of Nim #ltc_mid
+	- 2063. Leetcodify Friends Recommendations #ltc_hard
+	- 2064. Leetcodify Similar Friends #ltc_hard
+	- 2065. Check for Contradictions in Equations #ltc_hard
+	- 2066. Add Minimum Number of Rungs #ltc_mid
+	- 2067. Maximum Number of Points with Cost #ltc_mid
+	- 2068. Maximum Genetic Difference Query #ltc_hard
+	- 2069. Kth Smallest Subarray Sum #ltc_mid
+	- 2070. Check if String Is Decomposable Into Value-Equal Substrings #ltc_easy
+	- 2071. Longest Common Subsequence Between Sorted Arrays #ltc_mid
+	- 2072. Maximum of Minimum Values in All Subarrays #ltc_mid
+	- 2073. Minimum Time For K Virus Variants to Spread #ltc_hard
+	- 2074. Erect the Fence II #ltc_hard
+	- 2075. Brightest Position on Street #ltc_mid
+	- 2076. Sum of Digits of String After Convert #ltc_easy
+	- 2077. Largest Number After Mutating Substring #ltc_mid
+	- 2078. Maximum Compatibility Score Sum #ltc_mid
+	- 2079. Delete Duplicate Folders in System #ltc_hard
+	- 2080. Check if Move is Legal #ltc_mid
+	- 2081. Minimum Total Space Wasted With K Resizing Operations #ltc_mid
+	- 2082. Minimum Cost to Separate Sentence Into Rows #ltc_mid
+	- 2083. Three Divisors #ltc_easy
+	- 2084. Maximum Number of Weeks for Which You Can Work #ltc_mid
+	- 2085. Array With Elements Not Equal to Average of Neighbors #ltc_mid
+	- 2086. Count Number of Special Subsequences #ltc_hard
+	- 2087. Confirmation Rate #ltc_mid
+	- 2088. Minimum Time to Type Word Using Special Typewriter #ltc_easy
+	- 2089. Maximum Matrix Sum #ltc_mid
+	- 2090. Number of Ways to Arrive at Destination #ltc_mid

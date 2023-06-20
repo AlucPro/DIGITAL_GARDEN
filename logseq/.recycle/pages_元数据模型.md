@@ -1,4 +1,0 @@
-- ### 能力图
-  ![WeChatWorkScreenshot_6a218e09-007b-49f8-8ded-1310ad033889.png](../assets/WeChatWorkScreenshot_6a218e09-007b-49f8-8ded-1310ad033889_1651103786364_0.png)
-- ### 数仓分层
-  ![50DD0650-1E4A-4BAA-81E1-2B8A0DAE593D.png](../assets/50DD0650-1E4A-4BAA-81E1-2B8A0DAE593D_1651103792654_0.png)

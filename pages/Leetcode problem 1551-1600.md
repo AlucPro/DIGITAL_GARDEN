@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 1623. Sales by Day of the Week #ltc_hard
+	- 1624. Clone Binary Tree With Random Pointer #ltc_mid
+	- 1625. Group Sold Products By The Date #ltc_easy
+	- 1626. Can Make Arithmetic Progression From Sequence #ltc_easy
+	- 1627. Last Moment Before All Ants Fall Out of a Plank #ltc_mid
+	- 1628. Count Submatrices With All Ones #ltc_mid
+	- 1629. Minimum Possible Integer After at Most K Adjacent Swaps On Digits #ltc_hard
+	- 1630. Count Odd Numbers in an Interval Range #ltc_easy
+	- 1631. Number of Sub-arrays With Odd Sum #ltc_mid
+	- 1632. Number of Good Ways to Split a String #ltc_mid
+	- 1633. Minimum Number of Increments on Subarrays to Form a Target Array #ltc_hard
+	- 1634. Clone N-ary Tree #ltc_mid
+	- 1635. Number of Good Pairs #ltc_easy
+	- 1636. Number of Substrings With Only 1s #ltc_mid
+	- 1637. String Compression II #ltc_hard
+	- 1638. Best Position for a Service Centre #ltc_hard
+	- 1639. Friendly Movies Streamed Last Month #ltc_easy
+	- 1640. Design a File Sharing System #ltc_mid
+	- 1641. Countries You Can Safely Invest In #ltc_mid
+	- 1642. Water Bottles #ltc_easy
+	- 1643. Number of Nodes in the Sub-Tree With the Same Label #ltc_mid
+	- 1644. Maximum Number of Non-Overlapping Substrings #ltc_hard
+	- 1645. Find a Value of a Mysterious Function Closest to Target #ltc_hard
+	- 1646. Kth Missing Positive Number #ltc_easy
+	- 1647. Can Convert String in K Moves #ltc_mid
+	- 1648. Minimum Insertions to Balance a Parentheses String #ltc_mid
+	- 1649. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target #ltc_mid
+	- 1650. Find Root of N-Ary Tree #ltc_mid
+	- 1651. Shuffle String #ltc_easy
+	- 1652. Minimum Suffix Flips #ltc_mid
+	- 1653. Number of Good Leaf Nodes Pairs #ltc_mid
+	- 1654. Customer Order Frequency #ltc_easy
+	- 1655. Move Sub-Tree of N-Ary Tree #ltc_hard
+	- 1656. Count Good Triplets #ltc_easy
+	- 1657. Find the Winner of an Array Game #ltc_mid
+	- 1658. Minimum Swaps to Arrange a Binary Grid #ltc_mid
+	- 1659. Get the Maximum Score #ltc_hard
+	- 1660. Thousand Separator #ltc_easy
+	- 1661. Minimum Number of Vertices to Reach All Nodes #ltc_mid
+	- 1662. Minimum Numbers of Function Calls to Make Target Array #ltc_mid
+	- 1663. Detect Cycles in 2D Grid #ltc_mid
+	- 1664. Find Users With Valid E-Mails #ltc_easy
+	- 1665. Diameter of N-Ary Tree #ltc_mid
+	- 1666. Make The String Great #ltc_easy
+	- 1667. Find Kth Bit in Nth Binary String #ltc_mid
+	- 1668. Find Longest Awesome Substring #ltc_hard
+	- 1669. Minimum Cost to Cut a Stick #ltc_hard
+	- 1670. Patients With a Condition #ltc_easy
+	- 1671. The Most Recent Three Orders #ltc_mid
+	- 1672. Find the Index of the Large Integer #ltc_mid

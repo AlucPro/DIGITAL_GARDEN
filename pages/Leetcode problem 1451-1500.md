@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 1503. Reducing Dishes #ltc_hard
+	- 1504. Get the Second Most Recent Activity #ltc_hard
+	- 1505. Create Target Array in the Given Order #ltc_easy
+	- 1507. Check if There is a Valid Path in a Grid #ltc_mid
+	- 1508. Longest Happy Prefix #ltc_hard
+	- 1509. Replace Employee ID With The Unique Identifier #ltc_easy
+	- 1510. Find Lucky Integer in an Array #ltc_easy
+	- 1511. Count Number of Teams #ltc_mid
+	- 1512. Design Underground System #ltc_mid
+	- 1513. Find All Good Strings #ltc_hard
+	- 1514. Minimum Value to Get Positive Step by Step Sum #ltc_easy
+	- 1515. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K #ltc_mid
+	- 1516. The k-th Lexicographical String of All Happy Strings of Length n #ltc_mid
+	- 1517. Restore The Array #ltc_hard
+	- 1518. Total Sales Amount by Year #ltc_hard
+	- 1519. Minimum Subsequence in Non-Increasing Order #ltc_easy
+	- 1520. Number of Steps to Reduce a Number in Binary Representation to One #ltc_mid
+	- 1522. Stone Game III #ltc_hard
+	- 1523. Capital Gain/Loss #ltc_mid
+	- 1524. String Matching in an Array #ltc_easy
+	- 1525. Queries on a Permutation With Key #ltc_mid
+	- 1526. HTML Entity Parser #ltc_mid
+	- 1527. Number of Ways to Paint N × 3 Grid #ltc_hard
+	- 1528. Kids With the Greatest Number of Candies #ltc_easy
+	- 1529. Max Difference You Can Get From Changing an Integer #ltc_mid
+	- 1530. Check If a String Can Break Another String #ltc_mid
+	- 1531. Number of Ways to Wear Different Hats to Each Other #ltc_hard
+	- 1532. Reformat The String #ltc_easy
+	- 1533. Display Table of Food Orders in a Restaurant #ltc_mid
+	- 1534. Minimum Number of Frogs Croaking #ltc_mid
+	- 1535. Build Array Where You Can Find The Maximum Exactly K Comparisons #ltc_hard
+	- 1536. Customers Who Bought Products A and B but Not C #ltc_mid
+	- 1537. Maximum Score After Splitting a String #ltc_easy
+	- 1538. Maximum Points You Can Obtain from Cards #ltc_mid
+	- 1539. Diagonal Traverse II #ltc_mid
+	- 1541. Top Travellers #ltc_easy
+	- 1542. Consecutive Characters #ltc_easy
+	- 1543. Simplified Fractions #ltc_mid
+	- 1544. Count Good Nodes in Binary Tree #ltc_mid
+	- 1545. Form Largest Integer With Digits That Add up to Target #ltc_hard
+	- 1546. Find the Quiet Students in All Exams #ltc_hard
+	- 1547. Destination City #ltc_easy
+	- 1548. Check If All 1's Are at Least Length K Places Away #ltc_easy
+	- 1549. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit #ltc_mid
+	- 1550. Find the Kth Smallest Sum of a Matrix With Sorted Rows #ltc_hard
+	- 1551. NPV Queries #ltc_easy
+	- 1552. Build an Array With Stack Operations #ltc_mid
+	- 1553. Count Triplets That Can Form Two Arrays of Equal XOR #ltc_mid
+	- 1554. Minimum Time to Collect All Apples in a Tree #ltc_mid
+	- 1555. Number of Ways of Cutting a Pizza #ltc_hard

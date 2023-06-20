@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 1296. Kth Ancestor of a Tree Node #ltc_hard
+	- 1297. Maximum Number of Balloons #ltc_easy
+	- 1298. Reverse Substrings Between Each Pair of Parentheses #ltc_mid
+	- 1299. K-Concatenation Maximum Sum #ltc_mid
+	- 1300. Critical Connections in a Network #ltc_hard
+	- 1301. Reformat Department Table #ltc_easy
+	- 1302. Delete Characters to Make Fancy String #ltc_easy
+	- 1303. Minimum Moves to Reach Target Score #ltc_mid
+	- 1304. Longest Happy String #ltc_mid
+	- 1305. Number of Visible People in a Queue #ltc_hard
+	- 1306. Minimum Absolute Difference #ltc_easy
+	- 1307. Ugly Number III #ltc_mid
+	- 1308. Smallest String With Swaps #ltc_mid
+	- 1309. Sort Items by Groups Respecting Dependencies #ltc_hard
+	- 1310. Watering Plants #ltc_mid
+	- 1311. Largest Magic Square #ltc_mid
+	- 1312. Count Artifacts That Can Be Extracted #ltc_mid
+	- 1313. Count Ways to Build Rooms in an Ant Colony #ltc_hard
+	- 1316. Fizz Buzz Multithreaded #ltc_mid
+	- 1317. Monthly Transactions I #ltc_mid
+	- 1318. Tournament Winners #ltc_hard
+	- 1319. Unique Number of Occurrences #ltc_easy
+	- 1320. Remove All Adjacent Duplicates in String II #ltc_mid
+	- 1321. Get Equal Substrings Within Budget #ltc_mid
+	- 1322. Minimum Moves to Reach Target with Rotations #ltc_hard
+	- 1324. Where Will the Ball Fall #ltc_mid
+	- 1325. Path with Maximum Probability #ltc_mid
+	- 1326. Sum of Floored Pairs #ltc_hard
+	- 1327. Last Person to Fit in the Bus #ltc_mid
+	- 1328. Monthly Transactions II #ltc_mid
+	- 1329. Minimum Cost to Move Chips to The Same Position #ltc_easy
+	- 1330. Longest Arithmetic Subsequence of Given Difference #ltc_mid
+	- 1331. Path with Maximum Gold #ltc_mid
+	- 1332. Count Vowels Permutation #ltc_hard
+	- 1333. Sort the Jumbled Numbers #ltc_mid
+	- 1334. Sum of Numbers With Units Digit K #ltc_mid
+	- 1335. Maximum Candies Allocated to K Children #ltc_mid
+	- 1336. Maximum Product of the Length of Two Palindromic Substrings #ltc_hard
+	- 1337. Design Skiplist #ltc_hard
+	- 1338. Queries Quality and Percentage #ltc_easy
+	- 1339. Team Scores in Football Tournament #ltc_mid
+	- 1340. The Dining Philosophers #ltc_mid
+	- 1341. Split a String in Balanced Strings #ltc_easy
+	- 1342. Queens That Can Attack the King #ltc_mid
+	- 1343. Dice Roll Simulation #ltc_hard
+	- 1344. Maximum Equal Frequency #ltc_hard
+	- 1345. Perform String Shifts #ltc_easy
+	- 1346. Maximize the Topmost Element After K Moves #ltc_mid
+	- 1347. Distance to a Cycle in Undirected Graph #ltc_hard
+	- 1348. Maximum Score Of Spliced Array #ltc_hard

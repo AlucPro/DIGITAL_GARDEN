@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 986. Largest Time for Given Digits #ltc_mid
+	- 987. Reveal Cards In Increasing Order #ltc_mid
+	- 988. Flip Equivalent Binary Trees #ltc_mid
+	- 989. Largest Component Size by Common Factor #ltc_hard
+	- 990. Verifying an Alien Dictionary #ltc_easy
+	- 991. Array of Doubled Pairs #ltc_mid
+	- 992. Delete Columns to Make Sorted II #ltc_mid
+	- 993. Tallest Billboard #ltc_hard
+	- 994. Prison Cells After N Days #ltc_mid
+	- 998. Check Completeness of a Binary Tree #ltc_mid
+	- 999. Regions Cut By Slashes #ltc_mid
+	- 1000. Delete Columns to Make Sorted III #ltc_hard
+	- 1001. N-Repeated Element in Size 2N Array #ltc_easy
+	- 1002. Maximum Width Ramp #ltc_mid
+	- 1003. Minimum Area Rectangle II #ltc_mid
+	- 1004. Least Operators to Express Number #ltc_hard
+	- 1005. Univalued Binary Tree #ltc_easy
+	- 1006. Vowel Spellchecker #ltc_mid
+	- 1007. Numbers With Same Consecutive Differences #ltc_mid
+	- 1008. Binary Tree Cameras #ltc_hard
+	- 1009. Pancake Sorting #ltc_mid
+	- 1010. Powerful Integers #ltc_mid
+	- 1011. Flip Binary Tree To Match Preorder Traversal #ltc_mid
+	- 1012. Equal Rational Numbers #ltc_hard
+	- 1013. Fibonacci Number #ltc_easy
+	- 1014. K Closest Points to Origin #ltc_mid
+	- 1016. Subarray Sums Divisible by K #ltc_mid
+	- 1017. Odd Even Jump #ltc_hard
+	- 1018. Largest Perimeter Triangle #ltc_easy
+	- 1019. Squares of a Sorted Array #ltc_easy
+	- 1020. Longest Turbulent Subarray #ltc_mid
+	- 1021. Distribute Coins in Binary Tree #ltc_mid
+	- 1022. Unique Paths III #ltc_hard
+	- 1023. Time Based Key-Value Store #ltc_mid
+	- 1024. Triples with Bitwise AND Equal To Zero #ltc_hard
+	- 1025. Minimum Cost For Tickets #ltc_mid
+	- 1026. String Without AAA or BBB #ltc_mid
+	- 1027. Sum of Even Numbers After Queries #ltc_mid
+	- 1028. Interval List Intersections #ltc_mid
+	- 1029. Vertical Order Traversal of a Binary Tree #ltc_hard
+	- 1030. Smallest String Starting From Leaf #ltc_mid
+	- 1031. Add to Array-Form of Integer #ltc_easy
+	- 1032. Satisfiability of Equality Equations #ltc_mid
+	- 1033. Broken Calculator #ltc_mid
+	- 1034. Subarrays with K Different Integers #ltc_hard
+	- 1035. Cousins in Binary Tree #ltc_easy
+	- 1036. Rotting Oranges #ltc_mid
+	- 1037. Minimum Number of K Consecutive Bit Flips #ltc_hard
+	- 1038. Number of Squareful Arrays #ltc_hard
+	- 1039. Find the Town Judge #ltc_easy

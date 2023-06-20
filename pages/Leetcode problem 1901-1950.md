@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 1991. League Statistics #ltc_mid
+	- 1992. Sort Linked List Already Sorted Using Absolute Values #ltc_mid
+	- 1993. Sum of All Subset XOR Totals #ltc_easy
+	- 1994. Minimum Number of Swaps to Make the Binary String Alternating #ltc_mid
+	- 1995. Finding Pairs With a Certain Sum #ltc_mid
+	- 1996. Number of Ways to Rearrange Sticks With K Sticks Visible #ltc_hard
+	- 1997. Next Palindrome Using Same Digits #ltc_hard
+	- 1998. Suspicious Bank Accounts #ltc_mid
+	- 1999. Longer Contiguous Segments of Ones than Zeros #ltc_easy
+	- 2000. Minimum Speed to Arrive on Time #ltc_mid
+	- 2001. Jump Game VII #ltc_mid
+	- 2002. Stone Game VIII #ltc_hard
+	- 2003. Distinct Numbers in Each Subarray #ltc_mid
+	- 2004. Convert Date Format #ltc_easy
+	- 2005. Check if All the Integers in a Range Are Covered #ltc_easy
+	- 2006. Find the Student that Will Replace the Chalk #ltc_mid
+	- 2007. Maximum Cost of Trip With K Highways #ltc_hard
+	- 2008. Minimum Cost to Change the Final Value of Expression #ltc_hard
+	- 2009. Longest Word With All Prefixes #ltc_mid
+	- 2010. Check if Word Equals Summation of Two Words #ltc_easy
+	- 2011. Maximum Value after Insertion #ltc_mid
+	- 2012. Process Tasks Using Servers #ltc_mid
+	- 2013. Minimum Skips to Arrive at Meeting On Time #ltc_hard
+	- 2014. Orders With Maximum Quantity Above Average #ltc_mid
+	- 2015. Determine Whether Matrix Can Be Obtained By Rotation #ltc_easy
+	- 2016. Reduction Operations to Make the Array Elements Equal #ltc_mid
+	- 2017. Minimum Number of Flips to Make the Binary String Alternating #ltc_mid
+	- 2018. Minimum Space Wasted From Packaging #ltc_hard
+	- 2019. Product of Two Run-Length Encoded Arrays #ltc_mid
+	- 2020. Remove One Element to Make the Array Strictly Increasing #ltc_easy
+	- 2021. Remove All Occurrences of a Substring #ltc_mid
+	- 2022. Maximum Alternating Subsequence Sum #ltc_mid
+	- 2023. Design Movie Rental System #ltc_hard
+	- 2024. Calculate Special Bonus #ltc_easy
+	- 2025. Redistribute Characters to Make All Strings Equal #ltc_easy
+	- 2026. Merge Triplets to Form Target Triplet #ltc_mid
+	- 2027. Maximum Number of Removable Characters #ltc_mid
+	- 2028. The Earliest and Latest Rounds Where Players Compete #ltc_hard
+	- 2029. Minimize Product Sum of Two Arrays #ltc_mid
+	- 2030. Group Employees of the Same Salary #ltc_mid
+	- 2031. Egg Drop With 2 Eggs and N Floors #ltc_mid
+	- 2032. Largest Odd Number in String #ltc_easy
+	- 2033. The Number of Full Rounds You Have Played #ltc_mid
+	- 2034. Minimum Absolute Difference Queries #ltc_mid
+	- 2035. Count Sub Islands #ltc_mid
+	- 2036. Count Pairs in Two Arrays #ltc_mid
+	- 2037. Count Square Sum Triples #ltc_easy
+	- 2038. Nearest Exit from Entrance in Maze #ltc_mid
+	- 2039. Sum Game #ltc_mid
+	- 2040. Minimum Cost to Reach Destination in Time #ltc_hard

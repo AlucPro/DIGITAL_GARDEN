@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 351. Android Unlock Patterns #ltc_mid
+	- 352. Data Stream as Disjoint Intervals #ltc_hard
+	- 353. Design Snake Game #ltc_mid
+	- 354. Russian Doll Envelopes #ltc_hard
+	- 355. Design Twitter #ltc_mid
+	- 356. Line Reflection #ltc_mid
+	- 357. Count Numbers with Unique Digits #ltc_mid
+	- 358. Rearrange String k Distance Apart #ltc_hard
+	- 359. Logger Rate Limiter #ltc_easy
+	- 360. Sort Transformed Array #ltc_mid
+	- 361. Bomb Enemy #ltc_mid
+	- 362. Design Hit Counter #ltc_mid
+	- 363. Max Sum of Rectangle No Larger Than K #ltc_hard
+	- 364. Nested List Weight Sum II #ltc_mid
+	- 365. Water and Jug Problem #ltc_mid
+	- 366. Find Leaves of Binary Tree #ltc_mid
+	- 367. Valid Perfect Square #ltc_easy
+	- 368. Largest Divisible Subset #ltc_mid
+	- 369. Plus One Linked List #ltc_mid
+	- 370. Range Addition #ltc_mid
+	- 371. Sum of Two Integers #ltc_mid
+	- 372. Super Pow #ltc_mid
+	- 373. Find K Pairs with Smallest Sums #ltc_mid
+	- 374. Guess Number Higher or Lower #ltc_easy
+	- 375. Guess Number Higher or Lower II #ltc_mid
+	- 376. Wiggle Subsequence #ltc_mid
+	- 377. Combination Sum IV #ltc_mid
+	- 378. Kth Smallest Element in a Sorted Matrix #ltc_mid
+	- 379. Design Phone Directory #ltc_mid
+	- 380. Insert Delete GetRandom O(1) #ltc_mid
+	- 381. Insert Delete GetRandom O(1) - Duplicates allowed #ltc_hard
+	- 382. Linked List Random Node #ltc_mid
+	- 383. Ransom Note #ltc_easy
+	- 384. Shuffle an Array #ltc_mid
+	- 385. Mini Parser #ltc_mid
+	- 386. Lexicographical Numbers #ltc_mid
+	- 387. First Unique Character in a String #ltc_easy
+	- 388. Longest Absolute File Path #ltc_mid
+	- 389. Find the Difference #ltc_easy
+	- 390. Elimination Game #ltc_mid
+	- 391. Perfect Rectangle #ltc_hard
+	- 392. Is Subsequence #ltc_easy
+	- 393. UTF-8 Validation #ltc_mid
+	- [[394. Decode String]] #ltc_mid
+	- 395. Longest Substring with At Least K Repeating Characters #ltc_mid
+	- 396. Rotate Function #ltc_mid
+	- 397. Integer Replacement #ltc_mid
+	- 398. Random Pick Index #ltc_mid
+	- [[399. Evaluate Division]] #ltc_mid
+	- 400. Nth Digit #ltc_mid

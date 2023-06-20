@@ -1,1 +1,0 @@
-- 豆瓣介绍[Operating Systems: Three Easy Pieces](https://book.douban.com/subject/33463930/)

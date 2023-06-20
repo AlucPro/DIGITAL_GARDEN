@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 1775. Design an Ordered Stream #ltc_easy
+	- 1776. Minimum Operations to Reduce X to Zero #ltc_mid
+	- 1777. Determine if Two Strings Are Close #ltc_mid
+	- 1778. Maximize Grid Happiness #ltc_hard
+	- 1779. Hopper Company Queries I #ltc_hard
+	- 1780. Lowest Common Ancestor of a Binary Tree II #ltc_mid
+	- 1781. Check If Two String Arrays are Equivalent #ltc_easy
+	- 1782. Smallest String With A Given Numeric Value #ltc_mid
+	- 1783. Ways to Make a Fair Array #ltc_mid
+	- 1784. Minimum Initial Energy to Finish Tasks #ltc_hard
+	- 1785. Hopper Company Queries II #ltc_hard
+	- 1786. Count the Number of Consistent Strings #ltc_easy
+	- 1787. Sum of Absolute Differences in a Sorted Array #ltc_mid
+	- 1788. Stone Game VI #ltc_mid
+	- 1789. Delivering Boxes from Storage to Ports #ltc_hard
+	- 1790. Lowest Common Ancestor of a Binary Tree III #ltc_mid
+	- 1791. Richest Customer Wealth #ltc_easy
+	- 1792. Find the Most Competitive Subsequence #ltc_mid
+	- 1793. Minimum Moves to Make Array Complementary #ltc_mid
+	- 1794. Minimize Deviation in Array #ltc_hard
+	- 1795. Hopper Company Queries III #ltc_hard
+	- 1796. Correct a Binary Tree #ltc_mid
+	- 1797. Goal Parser Interpretation #ltc_easy
+	- 1798. Max Number of K-Sum Pairs #ltc_mid
+	- 1799. Minimum Incompatibility #ltc_hard
+	- 1800. Concatenation of Consecutive Binary Numbers #ltc_mid
+	- 1801. Average Time of Process per Machine #ltc_easy
+	- 1802. Number of Students Unable to Eat Lunch #ltc_easy
+	- 1803. Average Waiting Time #ltc_mid
+	- 1804. Maximum Binary String After Change #ltc_mid
+	- 1805. Minimum Adjacent Swaps for K Consecutive Ones #ltc_hard
+	- 1806. Count of Matches in Tournament #ltc_easy
+	- 1807. Partitioning Into Minimum Number Of Deci-Binary Numbers #ltc_mid
+	- 1808. Stone Game VII #ltc_mid
+	- 1809. Sum Of Special Evenly-Spaced Elements In Array #ltc_hard
+	- 1810. Change the Root of a Binary Tree #ltc_mid
+	- 1811. Fix Names in a Table #ltc_easy
+	- 1812. Reformat Phone Number #ltc_easy
+	- 1813. Maximum Erasure Value #ltc_mid
+	- 1814. Jump Game VI #ltc_mid
+	- 1815. Checking Existence of Edge Length Limited Paths #ltc_hard
+	- 1816. Lowest Common Ancestor of a Binary Tree IV #ltc_mid
+	- 1817. Calculate Money in Leetcode Bank #ltc_easy
+	- 1818. Maximum Score From Removing Substrings #ltc_mid
+	- 1819. Construct the Lexicographically Largest Valid Sequence #ltc_mid
+	- 1820. Number Of Ways To Reconstruct A Tree #ltc_hard
+	- 1821. Product's Worth Over Invoices #ltc_easy
+	- 1822. Longest Palindromic Subsequence II #ltc_mid
+	- 1823. Determine if String Halves Are Alike #ltc_easy
+	- 1824. Maximum Number of Eaten Apples #ltc_mid

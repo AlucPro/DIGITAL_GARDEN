@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 457. Circular Array Loop #ltc_mid
+	- 458. Poor Pigs #ltc_hard
+	- 459. Repeated Substring Pattern #ltc_easy
+	- 460. LFU Cache #ltc_hard
+	- [[461. Hamming Distance]] #ltc_easy
+	- 462. Minimum Moves to Equal Array Elements II #ltc_mid
+	- 463. Island Perimeter #ltc_easy
+	- 464. Can I Win #ltc_mid
+	- 465. Optimal Account Balancing #ltc_hard
+	- 466. Count The Repetitions #ltc_hard
+	- 467. Unique Substrings in Wraparound String #ltc_mid
+	- 468. Validate IP Address #ltc_mid
+	- 469. Convex Polygon #ltc_mid
+	- 471. Encode String with Shortest Length #ltc_hard
+	- 472. Concatenated Words #ltc_hard
+	- 473. Matchsticks to Square #ltc_mid
+	- 474. Ones and Zeroes #ltc_mid
+	- 475. Heaters #ltc_mid
+	- 476. Number Complement #ltc_easy
+	- 477. Total Hamming Distance #ltc_mid
+	- 479. Largest Palindrome Product #ltc_hard
+	- 480. Sliding Window Median #ltc_hard
+	- 481. Magical String #ltc_mid
+	- 482. License Key Formatting #ltc_easy
+	- 483. Smallest Good Base #ltc_hard
+	- 484. Find Permutation #ltc_mid
+	- 485. Max Consecutive Ones #ltc_easy
+	- 486. Predict the Winner #ltc_mid
+	- 487. Max Consecutive Ones II #ltc_mid
+	- 488. Zuma Game #ltc_hard
+	- 489. Kth Smallest Instructions #ltc_hard
+	- 490. The Maze #ltc_mid
+	- 491. Non-decreasing Subsequences #ltc_mid
+	- 492. Construct the Rectangle #ltc_easy
+	- 493. Reverse Pairs #ltc_hard
+	- [[494. Target Sum]] #ltc_mid
+	- 495. Teemo Attacking #ltc_easy
+	- 496. Next Greater Element I #ltc_easy
+	- 498. Diagonal Traverse #ltc_mid
+	- 499. The Maze III #ltc_hard
+	- 500. Keyboard Row #ltc_easy
+	- 501. Find Mode in Binary Search Tree #ltc_easy
+	- 502. IPO #ltc_hard
+	- 503. Next Greater Element II #ltc_mid
+	- 504. Base 7 #ltc_easy
+	- 505. The Maze II #ltc_mid
+	- 506. Relative Ranks #ltc_easy
+	- 507. Perfect Number #ltc_easy
+	- 508. Most Frequent Subtree Sum #ltc_mid
+	- 509. Inorder Successor in BST II #ltc_mid

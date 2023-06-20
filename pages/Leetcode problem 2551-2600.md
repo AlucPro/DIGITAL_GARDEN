@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 2649. Count Total Number of Colored Cells #ltc_mid
+	- 2650. Split With Minimum Sum #ltc_easy
+	- 2651. Count Ways to Group Overlapping Ranges #ltc_mid
+	- 2652. Count Number of Possible Root Nodes #ltc_hard
+	- 2653. Check if There is a Path With Equal Number of 0's And 1's #ltc_mid
+	- 2654. Count the Number of Vowel Strings in Range #ltc_easy
+	- 2655. Rearrange Array to Maximize Prefix Score #ltc_mid
+	- 2656. Count the Number of Beautiful Subarrays #ltc_mid
+	- 2657. Minimum Time to Complete All Tasks #ltc_hard
+	- 2658. Count the Number of K-Big Indices #ltc_hard
+	- 2659. Number of Even and Odd Bits #ltc_easy
+	- 2661. Smallest Missing Non-negative Integer After Operations #ltc_mid
+	- 2662. Check Knight Tour Configuration #ltc_mid
+	- 2663. Distribute Money to Maximum Children #ltc_easy
+	- 2664. Maximize Greatness of an Array #ltc_mid
+	- 2665. Minimum Time to Repair Cars #ltc_mid
+	- 2666. Minimum Time to Eat All Grains #ltc_hard
+	- 2667. Maximum Frequency Score of a Subarray #ltc_hard
+	- 2668. Form Smallest Number From Two Digit Arrays #ltc_easy
+	- 2669. Find the Substring With Maximum Cost #ltc_mid
+	- 2670. Make K-Subarray Sums Equal #ltc_mid
+	- 2671. Shortest Cycle in a Graph #ltc_hard
+	- 2672. Number of Good Binary Strings #ltc_mid
+	- 2673. Maximize Win From Two Segments #ltc_mid
+	- 2674. Make the Prefix Sum Non-negative #ltc_mid
+	- 2675. Find the Width of Columns of a Grid #ltc_easy
+	- 2676. Find the Score of All Prefixes of an Array #ltc_mid
+	- 2677. Cousins in Binary Tree II #ltc_mid
+	- 2678. Design Graph With Shortest Path Calculator #ltc_hard
+	- 2679. Count Distinct Numbers on Board #ltc_easy
+	- 2680. Count Collisions of Monkeys on a Polygon #ltc_mid
+	- 2681. Put Marbles in Bags #ltc_hard
+	- 2682. Count Increasing Quadruplets #ltc_hard
+	- 2683. Count the Number of Good Subsequences #ltc_mid
+	- 2684. Determine the Winner of a Bowling Game #ltc_easy
+	- 2685. First Completely Painted Row or Column #ltc_mid
+	- 2686. Minimum Cost of a Path With Special Roads #ltc_mid
+	- 2687. Lexicographically Smallest Beautiful String #ltc_hard
+	- 2688. Design a Todo List #ltc_mid
+	- 2689. Rearranging Fruits #ltc_hard
+	- 2690. House Robber IV #ltc_mid
+	- 2691. Count Vowel Strings in Ranges #ltc_mid
+	- 2692. Take Gifts From the Richest Pile #ltc_easy
+	- 2693. Maximum Price to Fill a Bag #ltc_mid
+	- 2694. Find the Maximum Divisibility Score #ltc_easy
+	- 2695. Find Score of an Array After Marking All Elements #ltc_mid
+	- 2696. The Number of Beautiful Subsets #ltc_mid
+	- 2697. Minimum Number of Visited Cells in a Grid #ltc_hard
+	- 2698. Find the Array Concatenation Value #ltc_easy
+	- 2699. Count the Number of Fair Pairs #ltc_mid

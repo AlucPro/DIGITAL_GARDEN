@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 1674. Minimum Operations to Make Array Equal #ltc_mid
+	- 1675. Magnetic Force Between Two Balls #ltc_mid
+	- 1676. Minimum Number of Days to Eat N Oranges #ltc_hard
+	- 1677. Matrix Diagonal Sum #ltc_easy
+	- 1678. Number of Ways to Split a String #ltc_mid
+	- 1679. Shortest Subarray to be Removed to Make Array Sorted #ltc_mid
+	- 1680. Count All Possible Routes #ltc_hard
+	- 1681. Guess the Majority in a Hidden Array #ltc_mid
+	- 1682. Most Visited Sector in  a Circular Track #ltc_easy
+	- 1683. Maximum Number of Coins You Can Get #ltc_mid
+	- 1684. Find Latest Group of Size M #ltc_mid
+	- 1685. Stone Game V #ltc_hard
+	- 1686. Fix Product Name Format #ltc_easy
+	- 1687. The Most Similar Path in a Graph #ltc_hard
+	- 1688. The Most Recent Orders for Each Product #ltc_mid
+	- 1689. Detect Pattern of Length M Repeated K or More Times #ltc_easy
+	- 1690. Maximum Length of Subarray With Positive Product #ltc_mid
+	- 1691. Minimum Number of Days to Disconnect Island #ltc_hard
+	- 1692. Number of Ways to Reorder Array to Get Same BST #ltc_hard
+	- 1693. Sum of All Odd Length Subarrays #ltc_easy
+	- 1694. Make Sum Divisible by P #ltc_mid
+	- 1695. Maximum Sum Obtained of Any Permutation #ltc_mid
+	- 1696. Strange Printer II #ltc_hard
+	- 1697. Strings Differ by One Character #ltc_mid
+	- 1698. Replace All ?'s to Avoid Consecutive Repeating Characters #ltc_easy
+	- 1699. Number of Ways Where Square of Number Is Equal to Product of Two Numbers #ltc_mid
+	- 1700. Minimum Time to Make Rope Colorful #ltc_mid
+	- 1701. Remove Max Number of Edges to Keep Graph Fully Traversable #ltc_hard
+	- 1702. Bank Account Summary #ltc_mid
+	- 1703. Put Boxes Into the Warehouse I #ltc_mid
+	- 1704. Special Positions in a Binary Matrix #ltc_easy
+	- 1705. Count Unhappy Friends #ltc_mid
+	- 1706. Min Cost to Connect All Points #ltc_mid
+	- 1707. Check If String Is Transformable With Substring Sort Operations #ltc_hard
+	- 1708. Design Parking System #ltc_easy
+	- 1709. Alert Using Same Key-Card Three or More Times in a One Hour Period #ltc_mid
+	- 1710. Find Servers That Handled Most Number of Requests #ltc_hard
+	- 1711. Find Valid Matrix Given Row and Column Sums #ltc_mid
+	- 1712. Unique Orders and Customers Per Month #ltc_easy
+	- 1713. Dot Product of Two Sparse Vectors #ltc_mid
+	- 1714. Rearrange Spaces Between Words #ltc_easy
+	- 1715. Split a String Into the Max Number of Unique Substrings #ltc_mid
+	- 1716. Maximum Non Negative Product in a Matrix #ltc_mid
+	- 1717. Minimum Cost to Connect Two Groups of Points #ltc_hard
+	- 1718. Warehouse Manager #ltc_easy
+	- 1719. Put Boxes Into the Warehouse II #ltc_mid
+	- 1720. Crawler Log Folder #ltc_easy
+	- 1721. Maximum Profit of Operating a Centennial Wheel #ltc_mid
+	- 1722. Throne Inheritance #ltc_mid
+	- 1723. Maximum Number of Achievable Transfer Requests #ltc_hard

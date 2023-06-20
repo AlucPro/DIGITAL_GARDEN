@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 1453. Ads Performance #ltc_easy
+	- 1454. Remove Palindromic Subsequences #ltc_easy
+	- 1455. Filter Restaurants by Vegan-Friendly, Price and Distance #ltc_mid
+	- 1456. Find the City With the Smallest Number of Neighbors at a Threshold Distance #ltc_mid
+	- 1457. Minimum Difficulty of a Job Schedule #ltc_hard
+	- 1458. Sort Integers by The Number of 1 Bits #ltc_easy
+	- 1459. Apply Discount Every n Orders #ltc_mid
+	- 1460. Number of Substrings Containing All Three Characters #ltc_mid
+	- 1461. Count All Valid Pickup and Delivery Options #ltc_hard
+	- 1462. List the Products Ordered in a Period #ltc_easy
+	- 1463. The K Weakest Rows in a Matrix #ltc_easy
+	- 1464. Reduce Array Size to The Half #ltc_mid
+	- 1465. Maximum Product of Splitted Binary Tree #ltc_mid
+	- 1466. Jump Game V #ltc_hard
+	- 1467. Number of Transactions per Visit #ltc_hard
+	- 1468. Check If N and Its Double Exist #ltc_easy
+	- 1469. Minimum Number of Steps to Make Two Strings Anagram #ltc_mid
+	- 1470. Tweet Counts Per Frequency #ltc_mid
+	- 1471. Maximum Students Taking Exam #ltc_hard
+	- 1472. Increasing Decreasing String #ltc_easy
+	- 1473. Find the Longest Substring Containing Vowels in Even Counts #ltc_mid
+	- 1474. Longest ZigZag Path in a Binary Tree #ltc_mid
+	- 1475. Maximum Sum BST in Binary Tree #ltc_hard
+	- 1476. Count Negative Numbers in a Sorted Matrix #ltc_easy
+	- 1477. Product of the Last K Numbers #ltc_mid
+	- 1478. Maximum Number of Events That Can Be Attended #ltc_mid
+	- 1479. Construct Target Array With Multiple Sums #ltc_hard
+	- 1480. Movie Rating #ltc_mid
+	- 1481. Students With Invalid Departments #ltc_easy
+	- 1482. How Many Numbers Are Smaller Than the Current Number #ltc_easy
+	- 1483. Rank Teams by Votes #ltc_mid
+	- 1484. Linked List in Binary Tree #ltc_mid
+	- 1485. Minimum Cost to Make at Least One Valid Path in a Grid #ltc_hard
+	- 1486. Find the Distance Value Between Two Arrays #ltc_easy
+	- 1487. Cinema Seat Allocation #ltc_mid
+	- 1488. Sort Integers by The Power Value #ltc_mid
+	- 1489. Pizza With 3n Slices #ltc_hard
+	- 1490. Generate a String With Characters That Have Odd Counts #ltc_easy
+	- 1491. Number of Times Binary String Is Prefix-Aligned #ltc_mid
+	- 1492. Time Needed to Inform All Employees #ltc_mid
+	- 1493. Frog Position After T Seconds #ltc_hard
+	- 1494. Activity Participants #ltc_mid
+	- 1495. Number of Trusted Contacts of a Customer #ltc_mid
+	- 1496. Lucky Numbers in a Matrix #ltc_easy
+	- 1497. Design a Stack With Increment Operation #ltc_mid
+	- 1498. Find a Corresponding Node of a Binary Tree in a Clone of That Tree #ltc_easy
+	- 1499. Maximum Performance of a Team #ltc_hard
+	- 1500. Count Largest Group #ltc_easy
+	- 1501. Circle and Rectangle Overlapping #ltc_mid
+	- 1502. Construct K Palindrome Strings #ltc_mid

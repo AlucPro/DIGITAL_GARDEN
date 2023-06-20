@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 2141. Smallest Greater Multiple Made of Two Digits #ltc_mid
+	- 2142. Average Height of Buildings in Each Segment #ltc_mid
+	- 2143. Count the Number of Experiments #ltc_mid
+	- 2144. Maximum Difference Between Increasing Elements #ltc_easy
+	- 2145. Grid Game #ltc_mid
+	- 2146. Check if Word Can Be Placed In Crossword #ltc_mid
+	- 2147. The Score of Students Solving Math Expression #ltc_hard
+	- 2148. Minimum Number of Moves to Seat Everyone #ltc_easy
+	- 2149. Remove Colored Pieces if Both Neighbors are the Same Color #ltc_mid
+	- 2150. Kth Smallest Product of Two Sorted Arrays #ltc_hard
+	- 2151. The Time When the Network Becomes Idle #ltc_mid
+	- 2152. The Number of Seniors and Juniors to Join the Company #ltc_hard
+	- 2153. Subtree Removal Game with Fibonacci Tree #ltc_hard
+	- 2154. Minimum Moves to Convert String #ltc_easy
+	- 2155. Find Missing Observations #ltc_mid
+	- 2156. Stone Game IX #ltc_mid
+	- 2157. Smallest K-Length Subsequence With Occurrences of a Letter #ltc_hard
+	- 2158. The Number of Seniors and Juniors to Join the Company II #ltc_hard
+	- 2159. Two Out of Three #ltc_easy
+	- 2160. Minimum Operations to Make a Uni-Value Grid #ltc_mid
+	- 2161. Stock Price Fluctuation  #ltc_mid
+	- 2162. Partition Array Into Two Arrays to Minimize Sum Difference #ltc_hard
+	- 2163. Kth Distinct String in an Array #ltc_easy
+	- 2164. Two Best Non-Overlapping Events #ltc_mid
+	- 2165. Plates Between Candles #ltc_mid
+	- 2166. Number of Valid Move Combinations On Chessboard #ltc_hard
+	- 2167. Number of Accounts That Did Not Stream #ltc_mid
+	- 2168. Check if Numbers Are Ascending in a Sentence #ltc_easy
+	- 2169. Simple Bank System #ltc_mid
+	- 2170. Count Number of Maximum Bitwise-OR Subsets #ltc_mid
+	- 2171. Second Minimum Time to Reach Destination #ltc_hard
+	- 2172. Low-Quality Problems #ltc_easy
+	- 2173. Number of Valid Words in a Sentence #ltc_easy
+	- 2174. Next Greater Numerically Balanced Number #ltc_mid
+	- 2175. Count Nodes With the Highest Score #ltc_mid
+	- 2176. Parallel Courses III #ltc_hard
+	- 2177. Check Whether Two Strings are Almost Equivalent #ltc_easy
+	- 2178. Walking Robot Simulation II #ltc_mid
+	- 2179. Most Beautiful Item for Each Query #ltc_mid
+	- 2180. Maximum Number of Tasks You Can Assign #ltc_hard
+	- 2181. Smallest Index With Equal Value #ltc_easy
+	- 2182. Find the Minimum and Maximum Number of Nodes Between Critical Points #ltc_mid
+	- 2183. Minimum Operations to Convert Number #ltc_mid
+	- 2184. Check if an Original String Exists Given Two Encoded Strings #ltc_hard
+	- 2185. Accepted Candidates From the Interviews #ltc_mid
+	- 2186. Count Vowel Substrings of a String #ltc_easy
+	- 2187. Vowels of All Substrings #ltc_mid
+	- 2188. Minimized Maximum of Products Distributed to Any Store #ltc_mid
+	- 2189. Maximum Path Quality of a Graph #ltc_hard
+	- 2190. Count Common Words With One Occurrence #ltc_easy

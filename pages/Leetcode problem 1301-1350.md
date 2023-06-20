@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 1349. Check If It Is a Straight Line #ltc_easy
+	- 1350. Remove Sub-Folders from the Filesystem #ltc_mid
+	- 1351. Replace the Substring for Balanced String #ltc_mid
+	- 1352. Maximum Profit in Job Scheduling #ltc_hard
+	- 1353. Find Resultant Array After Removing Anagrams #ltc_easy
+	- 1354. Find Players With Zero or One Losses #ltc_mid
+	- 1355. Minimum Deletions to Make Array Beautiful #ltc_mid
+	- 1356. Minimum Number of Moves to Make Palindrome #ltc_hard
+	- 1357. Report Contiguous Dates #ltc_hard
+	- 1358. Find Positive Integer Solution for a Given Equation #ltc_mid
+	- 1359. Circular Permutation in Binary Representation #ltc_mid
+	- 1360. Maximum Length of a Concatenated String with Unique Characters #ltc_mid
+	- 1361. Tiling a Rectangle with the Fewest Squares #ltc_hard
+	- 1362. Airplane Seat Assignment Probability #ltc_mid
+	- 1363. Greatest English Letter in Upper and Lower Case #ltc_easy
+	- 1364. Tuple with Same Product #ltc_mid
+	- 1366. First Unique Number #ltc_mid
+	- 1367. Maximum Height by Stacking Cuboids  #ltc_hard
+	- 1368. Web Crawler Multithreaded #ltc_mid
+	- 1369. Minimum Swaps to Make Strings Equal #ltc_mid
+	- 1370. Count Number of Nice Subarrays #ltc_mid
+	- 1371. Minimum Remove to Make Valid Parentheses #ltc_mid
+	- 1372. Check If It Is a Good Array #ltc_hard
+	- 1374. Leftmost Column with at Least a One #ltc_mid
+	- 1375. Find Palindrome With Fixed Length #ltc_mid
+	- 1376. Selling Pieces of Wood #ltc_hard
+	- 1377. Number of Comments per Post #ltc_easy
+	- 1378. Cells with Odd Values in a Matrix #ltc_easy
+	- 1379. Reconstruct a 2-Row Binary Matrix #ltc_mid
+	- 1380. Number of Closed Islands #ltc_mid
+	- 1381. Maximum Score Words Formed by Letters #ltc_hard
+	- 1382. Calculate Amount Paid in Taxes #ltc_easy
+	- 1383. Number of Single Divisor Triplets #ltc_mid
+	- 1384. Maximum Font to Fit a Sentence in a Screen #ltc_mid
+	- 1385. Number of Ways to Build House of Cards #ltc_mid
+	- 1386. Shift 2D Grid #ltc_easy
+	- 1387. Find Elements in a Contaminated Binary Tree #ltc_mid
+	- 1388. Greatest Sum Divisible by Three #ltc_mid
+	- 1389. Minimum Moves to Move a Box to Their Target Location #ltc_hard
+	- 1390. Average Selling Price #ltc_easy
+	- 1391. Counting Elements #ltc_easy
+	- 1392. Find the Difference of Two Arrays #ltc_easy
+	- 1393. Maximum Value of K Coins From Piles #ltc_hard
+	- 1394. Minimum Path Cost in a Grid #ltc_mid
+	- 1395. Minimum Time Visiting All Points #ltc_easy
+	- 1396. Count Servers that Communicate #ltc_mid
+	- 1397. Search Suggestions System #ltc_mid
+	- 1398. Number of Ways to Stay in the Same Place After Some Steps #ltc_hard
+	- 1399. Page Recommendations #ltc_mid
+	- 1400. Find Winner on a Tic Tac Toe Game #ltc_easy

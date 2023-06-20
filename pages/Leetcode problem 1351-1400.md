@@ -1,0 +1,51 @@
+- ## Problme Set
+	- 1401. Number of Burgers with No Waste of Ingredients #ltc_mid
+	- 1402. Count Square Submatrices with All Ones #ltc_mid
+	- 1403. Palindrome Partitioning III #ltc_hard
+	- 1404. Print Immutable Linked List in Reverse #ltc_mid
+	- 1405. All People Report to the Given Manager #ltc_mid
+	- 1406. Subtract the Product and Sum of Digits of an Integer #ltc_easy
+	- 1407. Group the People Given the Group Size They Belong To #ltc_mid
+	- 1408. Find the Smallest Divisor Given a Threshold #ltc_mid
+	- 1409. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix #ltc_hard
+	- 1410. Traffic Light Controlled Intersection #ltc_easy
+	- 1411. Convert Binary Number in a Linked List to Integer #ltc_easy
+	- 1413. Maximum Side Length of a Square with Sum Less than or Equal to Threshold #ltc_mid
+	- 1414. Shortest Path in a Grid with Obstacles Elimination #ltc_hard
+	- 1415. Students and Examinations #ltc_easy
+	- 1416. Check if an Array Is Consecutive #ltc_easy
+	- 1418. Fair Distribution of Cookies #ltc_mid
+	- 1419. Make Array Non-decreasing or Non-increasing #ltc_hard
+	- 1420. Find the Start and End Number of Continuous Ranges #ltc_mid
+	- 1421. Find Numbers with Even Number of Digits #ltc_easy
+	- 1422. Divide Array in Sets of K Consecutive Numbers #ltc_mid
+	- 1423. Maximum Number of Occurrences of a Substring #ltc_mid
+	- 1424. Maximum Candies You Can Get from Boxes #ltc_hard
+	- 1425. Weather Type in Each Country #ltc_easy
+	- 1426. Find N Unique Integers Sum up to Zero #ltc_easy
+	- 1427. All Elements in Two Binary Search Trees #ltc_mid
+	- 1428. Jump Game III #ltc_mid
+	- 1429. Verbal Arithmetic Puzzle #ltc_hard
+	- 1430. Find the K-Beauty of a Number #ltc_easy
+	- 1431. All Ancestors of a Node in a Directed Acyclic Graph #ltc_mid
+	- 1432. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree #ltc_mid
+	- 1433. Encrypt and Decrypt Strings #ltc_hard
+	- 1434. Decrypt String from Alphabet to Integer Mapping #ltc_easy
+	- 1435. XOR Queries of a Subarray #ltc_mid
+	- 1436. Get Watched Videos by Your Friends #ltc_mid
+	- 1437. Minimum Insertion Steps to Make a String Palindrome #ltc_hard
+	- 1438. Find the Team Size #ltc_easy
+	- 1439. Running Total for Different Genders #ltc_mid
+	- 1440. Convert Integer to the Sum of Two No-Zero Integers #ltc_easy
+	- 1441. Minimum Flips to Make a OR b Equal to c #ltc_mid
+	- 1442. Number of Operations to Make Network Connected #ltc_mid
+	- 1443. Minimum Distance to Type a Word Using Two Fingers #ltc_hard
+	- 1444. Number of Steps to Reduce a Number to Zero #ltc_easy
+	- 1445. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold #ltc_mid
+	- 1446. Angle Between Hands of a Clock #ltc_mid
+	- 1447. Jump Game IV #ltc_hard
+	- 1448. Maximum 69 Number #ltc_easy
+	- 1449. Print Words Vertically #ltc_mid
+	- 1450. Delete Leaves With a Given Value #ltc_mid
+	- 1451. Minimum Number of Taps to Open to Water a Garden #ltc_hard
+	- 1452. Restaurant Growth #ltc_mid

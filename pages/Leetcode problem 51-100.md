@@ -30,7 +30,7 @@
 	- [[79. Word Search]] #ltc_mid
 	- 80. Remove Duplicates from Sorted Array II #ltc_mid
 	- 81. Search in Rotated Sorted Array II #ltc_mid
-	- 82. Remove Duplicates from Sorted List II #ltc_mid
+	- [[82. Remove Duplicates from Sorted List II]] #ltc_mid
 	- 83. Remove Duplicates from Sorted List #ltc_easy
 	- [[84. Largest Rectangle in Histogram]] #ltc_hard
 	- [[85. Maximal Rectangle]] #ltc_hard

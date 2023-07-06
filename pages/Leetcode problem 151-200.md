@@ -39,7 +39,7 @@
 	- 188. Best Time to Buy and Sell Stock IV #ltc_hard
 	- 189. Rotate Array #ltc_mid
 	- 190. Reverse Bits #ltc_easy
-	- 191. Number of 1 Bits #ltc_easy
+	- [[191. Number of 1 Bits]] #ltc_easy
 	- 192. Word Frequency #ltc_mid
 	- 193. Valid Phone Numbers #ltc_easy
 	- 194. Transpose File #ltc_mid
